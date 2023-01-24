@@ -5,6 +5,6 @@ export const Page3 = () => {
         <img
       src="http://images.agoramedia.com/wte3.0/gcms/Second-pregnancy-planning-update-722x406.jpg?width=414"
     />
-    <h2>55 characters</h2>
+    <h2>52 characters</h2>
     </>
 }

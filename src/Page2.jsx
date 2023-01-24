@@ -5,6 +5,6 @@ export const Page2 = () => {
         <img
             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgd48twZJXwHNKerADhDwKUBYFfOZHuXAPGUNSBH3jzg&s"
         />
-        <h2>39 characters</h2>
+        <h2>35 characters</h2>
     </>
 }

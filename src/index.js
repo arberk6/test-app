@@ -15,10 +15,10 @@ root.render(
   <BrowserRouter>
     <Routes>
       <Route path='/' element={<Page1 />} />
-      <Route path='/' element={<Page2 />} />
-      <Route path='/' element={<Page3 />} />
-      <Route path='/' element={<Page4 />} />
-      <Route path='/' element={<Page5 />} />
+      <Route path='/with-some-data' element={<Page2 />} />
+      <Route path='/with-some-data-more-than-before' element={<Page3 />} />
+      <Route path='/with-some-data-more-than-before-but-this-time-a-bit-more' element={<Page4 />} />
+      <Route path='/with-some-data-more-than-before-but-this-time-a-bit-more-but-this-time-a-bit-more' element={<Page5 />} />
     </Routes>
   </BrowserRouter>
 );
